@@ -1,0 +1,165 @@
+/* #root{
+    background-color: #204051;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap');
+
+.root{
+    background-color: whitesmoke;
+}
+.body{
+    background-color: #323232;
+}
+.contLogo{
+    background-color: #323232;
+    border-bottom: 1.5px solid #E09CDC;
+}
+.logoName{
+    justify-content: center;
+    background-color: #323232 !important;
+}
+.textLogo{
+    color: white !important;
+    text-decoration: none !important;
+}
+.textLogo:hover{
+    color: black;
+    border-bottom: 1.5px solid #E09CDC;
+}
+.contNav{
+    display: flex;
+    justify-content: center;
+    background-color: #323232;
+    padding-bottom: 5px;
+}
+.navItem{
+    background-color: #323232 !important;
+    text-transform: uppercase;
+}
+.subSection1{
+    position: absolute;
+    font-size: 6.5vh;
+    padding-top: 180px;
+    padding-left: 120px;
+    font-family: 'Cairo', sans-serif;
+}
+.subSection2{
+    position: absolute;
+    font-size: 6.5vh;
+    padding-top: 220px;
+    padding-left: 50px;
+    font-family: 'Cairo', sans-serif;
+}
+.landingButton{
+    position: absolute;
+    margin-top: 275px;
+    margin-left: 120px;
+}
+.navI{
+    color: white !important;
+    text-decoration: none !important;
+    padding-right: 3px;
+}
+.navI:hover{
+    border-bottom: 1.5px solid #E09CDC;
+}
+.contBout{
+    background-color: #323232;
+}
+.section2{
+    background-color: #323232;
+    height: 60vh;
+}
+.aboutMe h2{
+    font-family: 'Cairo', sans-serif;
+    color: white;
+    padding-top: 20px;
+    border-bottom: 2px solid #E09CDC;
+    margin-left: 490px;
+    width: 134px;
+}
+.aboutMe p{
+    width: 40%;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    margin-left: 345px;
+    margin-top: 50px;
+}
+.section3{
+        background-color: white;
+        height: 60vh;
+}
+.experience h2{
+    font-family: 'Cairo', sans-serif;
+    color: #323232;
+    padding-top: 20px;
+    text-align: center;
+    border-bottom: 2px solid #323232;
+    margin-left: 430px;
+    width: 250px;
+}
+.contGambar{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    margin-top: 377px;
+
+    background-color: #323232;
+    height: 35vh;
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+}
+
+.footRow{
+    color: white;
+}
+.text-center{
+    margin-top: 30%;
+    font-size: 30px;
+}
+.text-center a{
+    color: white;
+}
+.footContact h1{
+    font-size: 40px;
+}
+.footContact{
+    margin-left: 35%;
+    margin-top: 10%;
+    font-size: 28px;
+}
+.footContact a{
+    text-decoration: none;
+    color:white;
+}
+.footContact a:hover{
+    border-bottom: 2px solid #E09CDC;
+}
+.h4{
+    text-align: center;
+    color: white;
+    height: 40vh;
+}
+.contArticle{
+    color: white;
+    text-align: center;
+}
+.cardArticle{
+    color: black !important;
+    height: auto;
+    margin-top: 50px;
+}
+.welcome{
+    display: flex;
+    justify-content: center;
+}
+.welcome h1{
+    padding-top: 150px !important;
+    font-size: 50px;
+}
+.formAdd{
+    margin-top: 100px;
+    padding-left: 500px;
+    display: flex;
+}
